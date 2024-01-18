@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sallenet Registration</string>
+    <string name="sallenet">sallenet</string>
+    <string name="register">register</string>
+    <string name="instructions">Thank you for registering.\n You will get an email at:</string>
+    <string name="need"><u>Need Help?</u></string>
+    <string name="confirmation">password confirmation...</string>
+    <string name="password">password...</string>
+    <string name="email">email...</string>
+    <string name="url">https://lasallefp.com</string>
+</resources>
